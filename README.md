@@ -13,11 +13,15 @@
 
 ## :star: [官网网址](https://banana-speed01.com/)
 ## :star: [备用网址](http://papaya01.com/)
----
-## :star: [帮助文档](https://help.ebkpark.org)
 
 ---
-## :arrow_double_down: [下载连接](https://go.milai.org/)
+### 点击即可下载
+### :arrow_double_down: [链接下载总导航](https://go.milai.org/)
+### :arrow_double_down: [IOS & iPad使用教程](https://banana-speed01.com/user/tutorial?os=ios&client=shadowrocket)
+### :arrow_double_down: [Mac下载](https://app-down.dolink.live/bmac/banana20240405.dmg)
+### :arrow_double_down: [安卓下载](https://app-down.dolink.live/bapk/banana_610_google.apk)
+### :arrow_double_down: [Windows下载](https://app-down.dolink.live/bwin/banana_20240405_winia32.zip)
+
 ---
 ### 免费福利
 **:gift: 下载香蕉加速，内含永久在线客服！为您答疑解惑所有疑惑!**
