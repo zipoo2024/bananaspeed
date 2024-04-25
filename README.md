@@ -11,7 +11,6 @@
 
 ---
 
-## :star: [官网网址](https://banana-speed01.com/)
 ## :star: [备用网址](http://papaya01.com/)
 
 ---
