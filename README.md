@@ -13,7 +13,6 @@
 
 ## :star: [永久域名](http://banana-fast.com/)
 ## :star: [备用网址1](http://b.papaya01.com/)
-## :star: [备用网址2](http://banana-speed01.com/)
 
 ---
 ### 点击即可下载
