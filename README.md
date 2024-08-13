@@ -12,8 +12,8 @@
 ---
 
 ## :star: [永久域名](http://banana-fast.com/)
-## :star: [备用网址1](http://c.papaya01.com/)
-## :star: [备用网址2](https://bhk01.bananapro.club/)
+## :star: [支付网址](https://web.yakoo.one/)
+## :star: [备用网址1](https://bhk01.bananapro.club/)
 
 ---
 ### 点击即可下载
