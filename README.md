@@ -13,11 +13,12 @@
 
 ## :star: [永久域名](http://banana-fast.com/)
 ## :star: [支付网址](https://web.yakoo.one/)
+## :star: [下载链接](https://wwvu.lanzouq.com/s/banana1027DMG)
 
 ---
 ### 点击即可下载
 ### :arrow_double_down: [链接下载总导航](https://go.milai.org/)
-### :arrow_double_down: [IOS & iPad使用教程](https://banana-speed01.com/user/tutorial?os=ios&client=shadowrocket)
+### :arrow_double_down: [IOS & iPad使用教程](https://web.yakoo.one/ios)
 ### :arrow_double_down: [Mac下载](https://app-down.dolink.live/bmac/banana20240405.dmg)
 ### :arrow_double_down: [安卓下载](https://app-down.dolink.live/bapk/banana_610_google.apk)
 ### :arrow_double_down: [Windows下载](https://app-down.dolink.live/bwin/banana_20240405_winia32.zip)
