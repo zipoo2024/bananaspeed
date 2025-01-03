@@ -11,7 +11,7 @@
 
 ---
 
-## :star: [永久域名](http://banana-fast.com/)
+## :star: [永久域名](http://banana-fast01.com/)
 ## :star: [支付网址](https://web.yakoo.one/)
 ## :star: [下载链接](https://wwvu.lanzouq.com/s/banana1027DMG)
 
