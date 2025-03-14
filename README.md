@@ -1,4 +1,12 @@
+
 # Banana VPN
+
+---
+
+## :star: [永久域名](http://banana-fast01.com/)
+## :star: [支付网址](https://web.yakoo.one/)
+## :star: [下载链接](https://wwvu.lanzouq.com/s/banana1027DMG)
+
 ### 香蕉加速  -  最快最稳定的加速软件！亚洲线路优化，最好用的加速器。
 
 **:earth_africa: "通过 IXP 连接至全球内容提供商，更加快速！"**
@@ -11,11 +19,6 @@
 
 ---
 
-## :star: [永久域名](http://banana-fast01.com/)
-## :star: [支付网址](https://web.yakoo.one/)
-## :star: [下载链接](https://wwvu.lanzouq.com/s/banana1027DMG)
-
----
 ### 点击即可下载
 ### :arrow_double_down: [链接下载总导航](https://go.milai.org/)
 ### :arrow_double_down: [IOS & iPad使用教程](https://web.yakoo.one/ios)
