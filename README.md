@@ -20,11 +20,11 @@
 ---
 
 ### 点击即可下载
-### :arrow_double_down: [链接下载总导航](https://go.milai.org/)
+### :arrow_double_down: [链接下载总导航](https://go.bananapro.club/)
 ### :arrow_double_down: [IOS & iPad使用教程](https://web.yakoo.one/ios)
-### :arrow_double_down: [Mac下载](https://app-down.dolink.live/bmac/banana20240405.dmg)
-### :arrow_double_down: [安卓下载](https://app-down.dolink.live/bapk/banana_610_google.apk)
-### :arrow_double_down: [Windows下载](https://app-down.dolink.live/bwin/banana_20240405_winia32.zip)
+### :arrow_double_down: [Mac下载](https://dw.miaomiao.yakoo.one/banana/BananaVPN.dmg)
+### :arrow_double_down: [安卓下载](https://dw.miaomiao.yakoo.one/banana/banana231230008.apk)
+### :arrow_double_down: [Windows下载](https://dw.miaomiao.yakoo.one/banana/BananaVPN_1.0.0_winia32.exe)
 
 ---
 ### 免费福利
