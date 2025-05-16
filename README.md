@@ -3,8 +3,8 @@
 
 ---
 
-## :star: [永久域名](http://banana-fast01.com/)
-## :star: [支付网址](https://web.yakoo.one/)
+## :star: [永久域名](http://banana-fast02.com/)
+## :star: [支付网址](https://www.abanana.win/price)
 ## :star: [下载链接](https://wwvu.lanzouq.com/s/banana1027DMG)
 
 ### 香蕉加速  -  最快最稳定的加速软件！亚洲线路优化，最好用的加速器。
