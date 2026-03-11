@@ -3,7 +3,7 @@
 
 ---
 
-## :star: [永久域名](http://banana-fast05.com/)
+## :star: [永久域名](http://banana-fast01.com/)
 ## :star: [支付网址](https://www.abanana.win/price)
 ## :star: [下载链接](https://to.bananapro.club/)
 
