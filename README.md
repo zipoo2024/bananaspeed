@@ -22,9 +22,9 @@
 ### 点击即可下载
 ### :arrow_double_down: [链接下载总导航](https://go.bananapro.club/)
 ### :arrow_double_down: [IOS & iPad使用教程](https://web.yakoo.one/ios)
-### :arrow_double_down: [Mac下载](https://dw.miaomiao.yakoo.one/banana/BananaVPN.dmg)
-### :arrow_double_down: [安卓下载](https://dw.miaomiao.yakoo.one/banana/banana231230008.apk)
-### :arrow_double_down: [Windows下载](https://dw.miaomiao.yakoo.one/banana/BananaVPN_1.0.0_winia32.exe)
+### :arrow_double_down: [Mac下载](https://go.bananapro.club/mac.html)
+### :arrow_double_down: [安卓下载](https://app-down.dolink.live/test/%E9%A6%99%E8%95%89VPN_733_normal.apk)
+### :arrow_double_down: [Windows下载](https://app-down.dolink.live/test/BananaVPN_1.1.1_winia32.exe)
 
 ---
 ### 免费福利
