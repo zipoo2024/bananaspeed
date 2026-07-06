@@ -21,9 +21,9 @@
 
 ### 点击即可下载
 ### :arrow_double_down: [链接下载总导航](https://go.bananapro.club/)
-### :arrow_double_down: [IOS & iPad使用教程](https://d.banana05.win/user/tutorial?os=ios&client=shadowrocket)
+### :arrow_double_down: [IOS & iPad使用教程](https://b.banana06.win/user/tutorial?os=ios&client=shadowrocket)
 ### :arrow_double_down: [Mac下载](https://app-down.dolink.live/test/BananaVPN.dmg)
-### :arrow_double_down: [安卓下载](https://app-down.dolink.live/test/香蕉VPN_733_normal.apk)
+### :arrow_double_down: [安卓下载](https://app-down.dolink.live/test/香蕉VPN_740_normal.apk)
 ### :arrow_double_down: [Windows下载](https://app-down.dolink.live/test/BananaVPN_1.1.2_winia32.exe)
 
 ---
